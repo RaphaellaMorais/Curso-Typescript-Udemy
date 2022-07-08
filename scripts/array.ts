@@ -40,9 +40,6 @@ console.log(senhaSalgadinho); // comando para imprimir a variável no console;
 
 
 
-
-
-
 let lista: (number | string) [] = [];
 
 for (let aluno = 1; aluno <= 40; aluno++) {
