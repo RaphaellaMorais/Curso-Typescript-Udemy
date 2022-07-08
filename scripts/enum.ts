@@ -10,24 +10,6 @@ console.log(Permission.READONLY);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //no enum eu estou agrupando, estou dizendo que toddos esses dados compoe um grupo de informações. 
 
 
@@ -37,3 +19,21 @@ console.log(Permission.READONLY);
 //   USER,
 //   READONLY
 //}
+
+//não existe no JavaScript mas foi adicionado ao TS com o intuito de fornecer nomes mais amigáveis a conjuntos de valores numéricos.
+
+//EU TESTANDO:
+
+enum diasSemana {
+    Domingo,
+    Segunda,
+    Terca,
+    Quarta,
+    Quinta,
+    Sexta,
+    Sabado
+}
+
+console.log(diasSemana);
+console.log(diasSemana.Domingo);
+
