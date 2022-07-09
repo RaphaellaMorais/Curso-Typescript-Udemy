@@ -10,5 +10,7 @@ configuracaoServidor = {
 
 configuracaoServidor = new Array()
 
-//ele não esta validando aqui o conteúdo do seu objeto;
-// aqui só estamos validando que é um objeto mas não q objeto é 
+console.log(configuracaoServidor);
+
+//Ele não esta validando aqui o conteúdo do seu objeto;
+//Aqui só estamos validando que é um objeto, mas não q objeto é;
