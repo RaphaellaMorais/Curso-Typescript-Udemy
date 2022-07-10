@@ -3,7 +3,7 @@ class Pessoa {
     idade: number;
     altura:number;
 
-    constructor(nome:string, idade:number, altura:number){
+    constructor(nome:string, idade:number, altura:number){ //nome, idade e altura no construtor são propriedades; 
         this.nome = nome; //para acessar as variáveis de cima;
         this.idade = idade;
         this.altura = altura;
