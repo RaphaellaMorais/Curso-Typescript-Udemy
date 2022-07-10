@@ -14,27 +14,6 @@ senhaSegura = senha.length > 8;
 
 console.log(senhaSegura);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //admin = true;
 //admin = 1; //o TS não aceita, a gente subtende q 1 é um valor verdadeiro.
 
