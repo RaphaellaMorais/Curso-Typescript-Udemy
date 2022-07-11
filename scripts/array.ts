@@ -16,11 +16,10 @@ console.log(filmesAnos);
 const senhaUpa: number []= [1, 2, 3, 4];
 console.log(senhaUpa);
 
-console.log("=====================");
 
 
 
-//Objetivo seria gerar senha poara posto de atendimento publico que só atende 30 pessoas por dia; 
+/* //Objetivo seria gerar senha poara posto de atendimento publico que só atende 30 pessoas por dia; 
 
 const senhaSalgadinho : (number | string) [] = []
 //declarei uma variavel para uma array e determeniei que nesse array poderá ter os dois tipos de elementos;
@@ -51,40 +50,11 @@ console.log(lista);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //filmesCategorias.push("Rom");
 //console.log(filmesCategorias);
-
 
 //Outra forma de declarar array/Declarando uma classe array:
 //Esse tipo de declaração <> ainda vai ser dada posteriormente;
 
-
-
-
-
-
-
-
-
-
-
-
-
 //filmesCategorias.push(123456); #ele coloca mas avisa que ta errado;
-//as ideias acima são as mesmas só formas diferentes de declarar array;
+//as ideias acima são as mesmas só formas diferentes de declarar array; */
