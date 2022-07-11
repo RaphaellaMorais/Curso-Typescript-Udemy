@@ -1,3 +1,6 @@
+//Um conjunto de instruções que executa uma tarefa ou calcula um valor.
+
+
 function mostrarMensagem(texto: string | number | object): boolean {
 
     console.log(texto);

@@ -11,4 +11,4 @@ for (quantidade; quantidade <= 10; quantidade++) {
     iten.push(roupa + quantidade);
 }
 console.log(iten);
-//# sourceMappingURL=any.js.map
+//# sourceMappingURL=type_any.js.map

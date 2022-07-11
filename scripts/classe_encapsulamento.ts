@@ -1,4 +1,4 @@
-/* -Encapsulamento nod permite definir diferentes níveis de acesso para nossos atributos e métodos;
+/* -Encapsulamento nos permite definir diferentes níveis de acesso para nossos atributos e métodos;
 -Usando os modificadores de acesso, podemos determinar até que ponto um atributo ou método é visível para
 outras variáveis ou classes.
 -Nos ajuda a proteger a integridade das informações de nossa classe;

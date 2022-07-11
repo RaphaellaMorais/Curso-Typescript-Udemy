@@ -1,4 +1,4 @@
-//let valor; o valor é any mesmo sem declarar; 
+/* //let valor; o valor é any mesmo sem declarar; 
 //Variável do tipo any, aceita qualquer valor, posso trocar o valor = true; que vai aceitar;
 let valor: any; 
  
@@ -19,7 +19,7 @@ despesaVariavel = 320;
 console.log(despesaFixa + despesaVariavel);
 
 
-//O problema é que com o any vc volta a insegurança do JS, já que ele não vai restringir o dado a um tipo;
+//O problema é que com o any vc volta a insegurança do JS, já que ele não vai restringir o dado a um tipo; */
 
 
 
