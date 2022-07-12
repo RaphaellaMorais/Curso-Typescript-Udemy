@@ -15,7 +15,7 @@ interface IPessoa extends Modelo{
 }
 
 
-interface Usuario extends IPessoa {
+interface IUsuario extends IPessoa {
     email: string;
     senha: string; 
 }
@@ -23,7 +23,7 @@ interface Usuario extends IPessoa {
 // Estamos estendendo a forma e não os valores;
 // Interface Usuario vai ter todas, pois estendeu de Pessoa que por vez estende de Modelo;
 
-const joao: Usuario = {
+const joao: IUsuario = {
     email: "joao@hcode.com.br",
     id: 1,
     nome: "João Rangel",
