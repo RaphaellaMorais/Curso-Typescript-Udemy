@@ -5,7 +5,7 @@ interface IBancoDeDados {
     tipoBanco: string;
 }
 
-class BancoDeDados {
+class BancoDeDados { //
 
     static LOCAL = "127.0.0.1"; //não importa quantas instancias será sempre o mesmo ip por isso statico;
     static TIPO_MYSQL = "MySQL";
@@ -19,7 +19,7 @@ class BancoDeDados {
     ) {}
 
 
-    static factory(parametros: IBancoDeDados) {
+    static factory(parametros: IBancoDeDados) { //Método statico | Design patterns criacionais ???
 
         if (![BancoDeDados.TIPO_MYSQL, 
             BancoDeDados.TIPO_SQLSERVER
