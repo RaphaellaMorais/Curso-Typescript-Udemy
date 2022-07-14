@@ -1,0 +1,4 @@
+Um módulo é basicamente um arquivo separado que armazena uma parte de nosso código;
+- Ao fazer a importação de um módulo, podemos reaproveitar seu código em vários arquivos;
+- Benefícios: melhor organização do código, reutilização do código, evitar conflito nos identificadores
+das variáveis(cada módulo tem seu próprio escopo)

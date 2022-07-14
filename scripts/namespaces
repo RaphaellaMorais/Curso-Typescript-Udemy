@@ -1,0 +1,5 @@
+É um recurso específico do TypeScript que nos permite organizar melhor os arquivos em nossos projetos;
+
+O objetivo dos namespaces é muito similar ao que já conhecemos dos módulos.
+
+É recomendado usar módulos em vez de namespaces.

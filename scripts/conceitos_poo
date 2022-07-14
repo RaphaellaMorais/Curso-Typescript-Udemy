@@ -1,4 +1,4 @@
-/*Programação orientada a objetos com TS.
+Programação orientada a objetos com TS.
 A POO é um paradigma de programação que consiste em criar as instâncias de nossos projetos levando em conta,
 conceito dos objetos no mundo real.
 
@@ -12,11 +12,11 @@ Todos objetos tem algo em comum: eles possuem "caracteristicas" e "ações".
 -*ações* serão chamados de ---METODOS---;
 ------------Classe é um conjunto de atrubutos e métodos;
 -OBJETO - Nova representação da classa (Instância), podemos dizer que é o objeto é uma instância de uma classe;
-*/
+
 
 /*Além de nos permitir criar instâncias de classes, a POO funciona com quatro conceitos principais:
 -Herança
 -Encapsulamento
 -Polimorfismo
 -Abstração
- */
+ 

@@ -1,13 +1,7 @@
 //Um conjunto de instruções que executa uma tarefa ou calcula um valor.
 
+import  mostrarMensagem  from "./funcoes/mostraMensagem";
 
-function mostrarMensagem(texto: string | number | object): boolean {
-
-    console.log(texto);
-
-    return true;
-
-}
 
 console.log(mostrarMensagem("Hcode"));
 console.log(mostrarMensagem(100));
