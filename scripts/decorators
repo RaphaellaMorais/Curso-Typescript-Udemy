@@ -1,0 +1,15 @@
+/*Decorators é um recurso que nos permite realizar modificações em partes de nossos códigos no momento de execução.
+Podemos dizer que eles são como uma anotação adicionada ao código que permite uma modificação em seu comportamento.
+Como se fosse uma etiqueta ali dentro do código e dicesse ---Olha, nessa parte aqui eu quero fazer uma modificação específica---.
+É uma função que retorna uma outra função, é uma fábrica de função.
+Basicamente vc vai chamar o decorator que é uma função e em tempo de execução ele vai passar oq vc ta decorando p dentro da função q vc ta chamando.*/
+
+Pode ser aplicado a:
+- Parâmetros
+- Classes 
+- Atributos
+- Métodos
+- Getters e Setters
+
+*Atualmente é um recurso experimental no TypeScript.
+*Ele tbm não vem habilitado por padrão no TS, tem q habilitar no arquivo tsconfig.
